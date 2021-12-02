@@ -62,6 +62,7 @@ I started an educational life with a technical high school - computer programmin
 ![Promethues](https://img.shields.io/badge/-Prometheus-grey)
 >
 ![Grafana](https://img.shields.io/badge/-Grafana-green)
+![Superset](https://img.shields.io/badge/-Superset-green)
 
 #### Architecture
 
