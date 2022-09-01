@@ -13,6 +13,10 @@ I started an educational life with a technical high school - computer programmin
 ![PHP](https://img.shields.io/badge/-PHP-grey)
 ![ASP](https://img.shields.io/badge/-ASP-grey)
 
+>
+
+![Express.js](https://img.shields.io/badge/-Express%20Js-brightgreen)
+![Node.js](https://img.shields.io/badge/-Node%20Js-brightgreen)
 
 
 #### Frontend
@@ -22,10 +26,6 @@ I started an educational life with a technical high school - computer programmin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-brightgreen)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-brightgreen)
 ![EcmaScript](https://img.shields.io/badge/Ecmascript-green)
-
->
-![Express.js](https://img.shields.io/badge/-Express%20Js-green)
-![Node.js](https://img.shields.io/badge/-Node%20Js-green)
 
 >
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-brightgreen) 
