@@ -24,8 +24,8 @@ I started an educational life with a technical high school - computer programmin
 ![EcmaScript](https://img.shields.io/badge/Ecmascript-green)
 
 >
-![Express.js](https://img.shields.io/badge/-Express%20Js-yellow)
-![Node.js](https://img.shields.io/badge/-Node%20Js-grey)
+![Express.js](https://img.shields.io/badge/-Express%20Js-green)
+![Node.js](https://img.shields.io/badge/-Node%20Js-green)
 
 >
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-brightgreen) 
