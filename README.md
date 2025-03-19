@@ -24,6 +24,7 @@ Fatih Mehmet ARSLAN
 ![Bigdata](https://img.shields.io/badge/-Bigdata-brightgreen)
 ![Solution Architect](https://img.shields.io/badge/-SolutionArchitect-brightgreen)
 
+[![fmarslan's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmarslan&layout=compact&theme=onedark&langs_count=10&hide_progress=false&size_weight=0.5&count_weight=0.5)](https://github.com/fmarslan)
 
 
 
