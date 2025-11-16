@@ -1,30 +1,58 @@
-Hello!
+# Hi, I’m Fatih 👋  
+**Solution Architect & Software Engineer**
 
-I am a passionate tech enthusiast navigating the world of technology with excitement. It was in the early 2000s when I took my first steps into coding with a strong interest in Computer Programming during my technical high school years. This initial foray led me into the world of software development, and I discovered my curiosity for exploring new technologies.
+I design and build systems that stay reliable under real-world conditions.  
+For more than 14 years, I’ve worked across different teams and countries, helping products grow without unnecessary complexity.
 
-Over the course of more than a decade, I have been a part of various projects spanning different industries. From NoSQL and Relational Databases to JavaScript development, CI Tools, and Kubernetes orchestration, I have had the opportunity to delve into a wide spectrum of technologies. Additionally, I have nurtured an interest in AI projects and have gained experience in this domain.
+I prefer clear communication, simple diagrams, and writing things down so ideas stay consistent.  
+I still code when needed, it keeps me close to the real problems.
 
-My work in Big Data analysis and processing has contributed to making our projects smarter and more data-centric.
+---
 
-Every new project is an adventure and a learning opportunity for me. As I keep up with the latest innovations in the tech world and share my experiences, I aspire to be part of bigger and more exciting projects.
+## 🧭 What I Focus On
 
-You can find more about me on my LinkedIn and GitHub profiles. I am always open to sharing the excitement of the tech world and collaborating on intriguing projects.
+### Solution Architecture
+Understanding complex systems, defining service boundaries, and keeping APIs predictable.
 
-If you have any questions or would like to collaborate on a new project, please do not hesitate to get in touch!
+### Cloud & Platforms
+Kubernetes, IaC, observability, automation — practical engineering that keeps platforms stable.
 
-Best regards,
+### Integrations & Data
+Event-driven systems, document pipelines, search/indexing, and data workflows that actually help teams.
 
-Fatih Mehmet ARSLAN
+### Collaboration
+Sharing context, removing blockers early, and helping teams work calmly and effectively.
 
+---
 
-![Java](https://img.shields.io/badge/-Java-brightgreen)
-![C#](https://img.shields.io/badge/-CSharp-brightgreen)
-![Python](https://img.shields.io/badge/-Python-brightgreen)
-![Cloud](https://img.shields.io/badge/-Cloud-brightgreen)
-![Bigdata](https://img.shields.io/badge/-Bigdata-brightgreen)
-![Solution Architect](https://img.shields.io/badge/-SolutionArchitect-brightgreen)
+## 🧰 Tech & Tools I Use
+
+**Languages:**  
+Java (Spring), C# (.NET Core), Python, JavaScript  
+(also used Ruby, Groovy, PHP when required)
+
+**Databases:**  
+PostgreSQL, MySQL, MSSQL, Oracle, MongoDB, Cassandra, Cosmos DB
+
+**Cloud & Infrastructure:**  
+Azure, Docker, Kubernetes, Serverless (FaaS), IaC
+
+**DevOps & Delivery:**  
+Git, CI/CD pipelines, monitoring, automation tools
+
+**Search / Indexing:**  
+Elasticsearch, Solr, OpenSearch, Azure Cognitive Search
+
+---
+
+## 📊 Languages Overview
 
 [![fmarslan's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmarslan&layout=compact&theme=onedark&langs_count=10&hide_progress=false&size_weight=0.5&count_weight=0.5)](https://github.com/fmarslan)
 
+---
 
+## 🤝 Let’s Connect
 
+**Website:** https://fmarslan.com  
+**LinkedIn:** https://linkedin.com/in/fmarslan  
+**Email:** contact@fmarslan.com
